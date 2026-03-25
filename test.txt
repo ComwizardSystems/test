@@ -1,4 +1,5 @@
-Dear customer,
-Your EMI amount of ₹25000 is due on 26 Jan, 2026.
-Please make the payment to avoid penalty.
-Thank you.
+प्रिय ग्राहक,
+तुमची ₹25000 ची EMI रक्कम 26 जानेवारी, 2026 रोजी देय आहे.
+दंड टाळण्यासाठी कृपया पेमेंट करा.
+
+धन्यवाद.
